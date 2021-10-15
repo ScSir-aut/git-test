@@ -1,1 +1,3 @@
 Hello World! Camera
+Hello World! hot-fix commit
+分支合并之后的结果
